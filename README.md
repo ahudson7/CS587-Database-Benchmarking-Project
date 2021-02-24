@@ -14,7 +14,7 @@ The project will consist of three main stages:
 
 Here you will find all information relevant to Stage One of the CS587 Database Benchmarking Project
 
-## Stage One Components:
+## Part One Components:
   - Selection of Project Option & System(s)   
   - Data Generation for Test Relations
   - GCP Project Creation and Customization
@@ -35,3 +35,10 @@ Here you will find all information relevant to Stage One of the CS587 Database B
 **GCP Project Creation and Customization:**
 
   This part of the project proved to be surprisingly straightforward. I'd had some issues understanding how to make use of GCP in a past course, but the presentation and materials provided by Neha made it all very easy to understand. You can find additional screenshots of the GCP Project in the file named ['GCP_High_Level.pdf'](https://github.com/ahudson7/CS587-Database-Benchmarking-Project/blob/main/Part-1/GCP_High_Level.pdf). Here you'll be able to see the interiors of the VM and Storage aspects, as well as the project dashboard where the BigQuery instance is clearly visible.
+  
+  ## Part Two Components:
+  - System Research
+  - Performance Experiment Design
+  - Lessons Learned
+
+  Please refer to the [Benchmark Design file](https://github.com/ahudson7/CS587-Database-Benchmarking-Project/blob/main/Part-2/Part-2-Benchmark-Design.pdf) for each of these components.
