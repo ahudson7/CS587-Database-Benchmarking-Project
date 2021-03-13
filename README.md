@@ -12,7 +12,7 @@ The project will consist of three main stages:
 - Part 2: System Research & Benchmark Design
 - Part 3: Benchmark Implementation
 
-Here you will find all information relevant to Stage One of the CS587 Database Benchmarking Project
+Below you will find information pertaining to each stage of the project.
 
 ## Part One Components:
   - Selection of Project Option & System(s)   
@@ -41,4 +41,15 @@ Here you will find all information relevant to Stage One of the CS587 Database B
   - Performance Experiment Design
   - Lessons Learned
 
-  Please refer to the [Benchmark Design file](https://github.com/ahudson7/CS587-Database-Benchmarking-Project/blob/main/Part-2/Part-2-Benchmark-Design.pdf) for each of these components.
+  Please refer to the [Benchmark Design](https://github.com/ahudson7/CS587-Database-Benchmarking-Project/blob/main/Part-2/Part-2-Benchmark-Design.pdf) file for each of these components.
+
+  ## Part Three Components:
+  - Experimental Results
+  - Analysis
+  - Conclusions
+  - Lessons Learned
+  
+  Please refer to the [Benchmark Presentation](https://github.com/ahudson7/CS587-Database-Benchmarking-Project/blob/main/Part-3/Benchmark%20Presentation.pdf) file for each of these components.
+
+  ## Acknowledgements:
+  We would like to thank Professor Kristin Tufte and Neha Agrawal for providing guidance and resources for this project.  Their advice, ideas, and support were pivotal in designing and implementing this benchmark.
