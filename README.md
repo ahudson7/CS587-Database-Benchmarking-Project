@@ -49,7 +49,7 @@ Below you will find information pertaining to each stage of the project.
   - Conclusions
   - Lessons Learned
   
-  Please refer to the [Benchmark Presentation](https://github.com/ahudson7/CS587-Database-Benchmarking-Project/blob/main/Part-3/Benchmark%20Presentation.pdf) file for each of these components.
+  Please refer to the [Benchmark Presentation](https://github.com/ahudson7/CS587-Database-Benchmarking-Project/blob/main/Part-3/Benchmark-Presentation.pdf) file for each of these components.
 
   ## Acknowledgements:
   We would like to thank Professor Kristin Tufte and Neha Agrawal for providing guidance and resources for this project.  Their advice, ideas, and support were pivotal in designing and implementing this benchmark.
